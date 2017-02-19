@@ -10,7 +10,7 @@
 .post {
   padding: $post-padding;
   
-  & + .post {
+  # + .post {
     border-top: $post-border;
   }
 
